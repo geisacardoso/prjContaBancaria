@@ -1,0 +1,6 @@
+C:\Users\aluno\Desktop\prjContaBancaria\prjContaBancaria\bin\Debug\prjContaBancaria.exe.config
+C:\Users\aluno\Desktop\prjContaBancaria\prjContaBancaria\bin\Debug\prjContaBancaria.exe
+C:\Users\aluno\Desktop\prjContaBancaria\prjContaBancaria\bin\Debug\prjContaBancaria.pdb
+C:\Users\aluno\Desktop\prjContaBancaria\prjContaBancaria\obj\Debug\prjContaBancaria.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\prjContaBancaria\prjContaBancaria\obj\Debug\prjContaBancaria.exe
+C:\Users\aluno\Desktop\prjContaBancaria\prjContaBancaria\obj\Debug\prjContaBancaria.pdb
